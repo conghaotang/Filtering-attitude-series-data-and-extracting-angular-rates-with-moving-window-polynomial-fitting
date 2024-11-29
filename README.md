@@ -1,0 +1,1 @@
+# Filtering-attitude-series-data-and-extracting-angular-rates-with-moving-window-polynomial-fitting
