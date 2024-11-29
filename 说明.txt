@@ -1,0 +1,10 @@
+
+mainFIRqua2021.m 为实验1 利用四元数进行数据仿真
+
+mainw.m 为实验2 即利用角速度进行仿真
+
+mainwtruedata3 为GRACE卫星数据 SCA1B 数据
+
+mainwtruedata.m 为GRACE卫星数据 SCA1A 数据
+
+
